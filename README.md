@@ -96,6 +96,8 @@ python
 
 ├── deliveries.csv       # Ball-by-ball data
 
+├── ipl-match-predictor.ipynb #Complete EDA ,feature engineering and model building
+
 ├── requirements.txt     # Dependencies
 
 └── runtime.txt          # Python version (for Streamlit Cloud)
@@ -111,6 +113,7 @@ Deploy via Streamlit Cloud
 Done! 🎯
 
 📢 Credits
+
 Data Source: Kaggle IPL Dataset
 
 
@@ -118,6 +121,10 @@ For cricket fans, analysts, and dreamers of the game.
 
 
 📬 Contact
+
+Satyam Singh 
+
+Linkedin: https://www.linkedin.com/in/satyam-singh-61152a334
 
 Feel free to reach out for collaborations, ideas, or feedback:
 
