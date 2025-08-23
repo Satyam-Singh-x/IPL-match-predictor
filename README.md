@@ -57,13 +57,12 @@ Joblib
 2. 
 bash
 
-git clone https://github.com/your-username/ipl-match-predictor.git
+git clone https://github.com/Satyam-Singh-x/IPL-match-predictor.git
 
-cd ipl-match-predictor
+cd IPL-match-predictor
 
 3. Create Virtual Environment (optional but recommended)
-4. 
-bash
+
 
 python -m venv .venv
 
@@ -123,8 +122,6 @@ For cricket fans, analysts, and dreamers of the game.
 📬 Contact
 
 Satyam Singh 
-
-Linkedin: https://www.linkedin.com/in/satyam-singh-61152a334
 
 Feel free to reach out for collaborations, ideas, or feedback:
 
